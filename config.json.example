@@ -1,0 +1,4 @@
+{
+	"gameserver_addr": "10.0.0.30:6666",
+	"gameserver_commskey": "please_use_something_secure_in_production"
+}

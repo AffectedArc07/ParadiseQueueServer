@@ -1,0 +1,16 @@
+// BEGIN_INTERNALS
+#define DEBUG
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "code\__defines.dm"
+#include "code\client.dm"
+#include "code\globals.dm"
+#include "code\overrides.dm"
+#include "code\world.dm"
+#include "interface\skin.dmf"
+// END_INCLUDE

@@ -1,0 +1,8 @@
+#ignore misc BYOND files
+*.int
+*.rsc
+*.dmb
+*.lk
+
+#ignore cfg
+config.json

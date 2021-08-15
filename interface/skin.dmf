@@ -1,0 +1,29 @@
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = 281,0
+		size = 768x256
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		is-transparent = true
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Loading..."
+		statusbar = false
+		can-minimize = false
+		can-resize = false
+		outer-size = 784x295
+		inner-size = 768x256
+	elem "mainoutput"
+		type = OUTPUT
+		pos = 0,0
+		size = 768x256
+		anchor1 = none
+		anchor2 = none
+		font-family = "Verdana"
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = "max-lines"
+
